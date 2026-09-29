@@ -16,6 +16,10 @@
 ### [Lava_test](https://github.com/001-alt/Lava_test)
 固态硬盘产线全段测试看板，将工站、机柜、服务器、盘位与测试日志关联起来，帮助现场查看在制状态、产能瓶颈、不良和报错。
 
+![Lava_test 当日报表](https://raw.githubusercontent.com/001-alt/Lava_test/main/docs/images/daily-report.png)
+
+![Lava_test 产线平面图](https://raw.githubusercontent.com/001-alt/Lava_test/main/docs/images/floor-map.png)
+
 - 覆盖 `ICT → FUNCTION → BIST → ESS → FINAL → CUS` 全流程，ORT 作为旁路抽检
 - 面向 13,585 个盘位的拓扑、设备台账和产能分析
 - 提供平面看板、设备清单、日志、良率、不良、追溯、工单和统计等视图
@@ -28,6 +32,8 @@
 `JavaScript` `HTML/CSS` `Node.js` `Python` `IndexedDB` `SSH` `FTP` `Data Visualization`
 ### [HealthOS](https://github.com/001-alt/HealthOS)
 个人健康管理应用，将身体数据、日常习惯、饮食记录、训练计划和 AI 建议集中在移动端。
+
+![HealthOS 移动端界面](https://raw.githubusercontent.com/001-alt/HealthOS/main/docs/images/healthos-overview.png)
 
 - 身体指标记录与趋势可视化
 - 饮水、步数、睡眠和饮食打卡
