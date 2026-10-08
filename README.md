@@ -59,6 +59,10 @@
 ### [Medical Diseases](https://github.com/001-alt/-Medical-Diseases)
 医疗疾病大数据分析系统，覆盖数据采集、机器学习分析、可视化和权限管理。
 
+![Medical Diseases 系统首页](./assets/medical-diseases/home.png)
+
+![Medical Diseases 数据可视化大屏](./assets/medical-diseases/dashboard.png)
+
 - Selenium 自动化数据采集
 - 决策树 / 随机森林预测
 - Flask + Vue.js + MySQL 全栈架构
