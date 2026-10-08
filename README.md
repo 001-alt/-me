@@ -35,6 +35,8 @@
 ### [Markdown Reader](https://github.com/001-alt/markdown-reader)
 轻量、专注写作的 Markdown 编辑器，使用 Electron + Vite + React + TypeScript 构建，提供编辑与实时预览的分屏工作区。
 
+![Markdown Reader 编辑器界面](./assets/markdown-reader-preview.png)
+
 - 支持 GFM 标题、列表、表格、任务列表、引用、链接、删除线、图片和代码高亮
 - 支持浅色、深色、护眼三套主题，以及分屏比例、窗口状态和最近文件持久化
 - 支持新建、打开、保存、另存为、HTML 导出和 PDF 导出
