@@ -2,7 +2,7 @@
 
 ## Test Development Engineer · Automation · Engineering Tools
 
-我是一名测试开发工程师，关注企业级 SSD 测试、自动化工具和数据驱动的工程效率提升。
+我是一名测试工程师，关注企业级 SSD 测试、自动化工具和数据驱动的工程效率提升。
 
 目前的工作重点包括：
 
@@ -23,7 +23,6 @@
 ![Lava_test 产线平面图](https://raw.githubusercontent.com/001-alt/Lava_test/main/docs/images/floor-map.png)
 
 - 覆盖 `ICT → FUNCTION → BIST → ESS → FINAL → CUS` 全流程，ORT 作为旁路抽检
-- 面向 13,585 个盘位的拓扑、设备台账和产能分析
 - 提供平面看板、设备清单、日志、良率、不良、追溯、工单和统计等视图
 - 支持 Excel 设备台账导入、IP 映射校验、CSV / JSON 导出
 - 通过解析器注册表接入测试日志，并以幂等流水线写入记录、盘位和不良数据
