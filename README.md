@@ -16,6 +16,8 @@
 ### [Lava_test](https://github.com/001-alt/Lava_test)
 固态硬盘产线全段测试看板，将工站、机柜、服务器、盘位与测试日志关联起来，帮助现场查看在制状态、产能瓶颈、不良和报错。
 
+> **在线体验：** [打开 Lava_test 测试看板](https://lavatestboard.vercel.app/)
+
 ![Lava_test 当日报表](https://raw.githubusercontent.com/001-alt/Lava_test/main/docs/images/daily-report.png)
 
 ![Lava_test 产线平面图](https://raw.githubusercontent.com/001-alt/Lava_test/main/docs/images/floor-map.png)
