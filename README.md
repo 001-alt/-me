@@ -32,6 +32,16 @@
 - 包含领域测试、冒烟测试、桥接接口测试和端到端演练，README 记录为 266 项断言全部通过
 
 `JavaScript` `HTML/CSS` `Node.js` `Python` `IndexedDB` `SSH` `FTP` `Data Visualization`
+### [Markdown Reader](https://github.com/001-alt/markdown-reader)
+轻量、专注写作的 Markdown 编辑器，使用 Electron + Vite + React + TypeScript 构建，提供编辑与实时预览的分屏工作区。
+
+- 支持 GFM 标题、列表、表格、任务列表、引用、链接、删除线、图片和代码高亮
+- 支持浅色、深色、护眼三套主题，以及分屏比例、窗口状态和最近文件持久化
+- 支持新建、打开、保存、另存为、HTML 导出和 PDF 导出
+- 使用 `react-markdown`、`remark-gfm` 和 `rehype-highlight` 渲染 Markdown
+- 当前为 Electron 桌面应用；渲染界面可以部署到 Vercel，但文件读写、最近文件和 PDF 导出依赖 Electron IPC，需要单独适配浏览器 API 后才能作为完整 Web 应用运行
+
+`Electron` `Vite` `React` `TypeScript` `Markdown` `PDF`
 ### [HealthOS](https://github.com/001-alt/HealthOS)
 个人健康管理应用，将身体数据、日常习惯、饮食记录、训练计划和 AI 建议集中在移动端。
 
