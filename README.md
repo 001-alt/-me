@@ -1,6 +1,6 @@
-# Hi, I'm ma 👋
+# 你好，我是 ma 👋
 
-## Test Development Engineer · Automation · Engineering Tools
+## 测试开发工程师 · 自动化 · 工程工具
 
 我是一名测试工程师，关注企业级 SSD 测试、自动化工具和数据驱动的工程效率提升。
 
@@ -11,7 +11,7 @@
 - Python 自动化脚本与效率工具
 - AI 辅助开发与工程实践
 
-## Featured Projects
+## 精选项目
 
 ### [Lava_test](https://github.com/001-alt/Lava_test)
 固态硬盘产线全段测试看板，将工站、机柜、服务器、盘位与测试日志关联起来，帮助现场查看在制状态、产能瓶颈、不良和报错。
@@ -71,29 +71,30 @@
 
 `Python` `Flask` `Vue.js` `MySQL` `Scikit-learn` `ECharts`
 
-## Skills
+## 技能
 
-**Testing**  
+**测试**  
 SSD Testing · Failure Analysis · Reliability Testing · Log Analysis
 
-**Programming**  
+**编程**  
 Python · Shell · C++ · Linux
 
-**Development**  
+**开发**  
 Automation Tools · Data Visualization · Web Applications · Databases
 
-**AI-assisted Development**  
+**AI 辅助开发**  
 Cursor · Codex · Vibe Coding
 
-## Current Focus
+## 当前关注
 
 - 构建可复用的测试自动化框架
 - 开发面向测试现场的工程效率工具
 - 探索 AI Agent 在测试与数据分析中的应用
 
-## Contact
+## 联系方式
 
 - GitHub: [001-alt](https://github.com/001-alt)
 - 简历: [在线查看](https://001-alt.github.io/Resume/)
+
 
 
